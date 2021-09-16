@@ -23,4 +23,4 @@ Press the <kbd>.</kbd> key in the forked repository to open GitHub's web editor.
 
 Please read and follow the [Contribution Guidelines](CONTRIBUTING.md) before you create a pull request.
 
-## ⏳ Stay Tuned for more updates!
+### ⏳ Stay Tuned for more updates!
