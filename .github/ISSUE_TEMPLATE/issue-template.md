@@ -1,12 +1,3 @@
----
-name: Issue template
-about: Issue template
-title: ''
-labels: ''
-assignees: ''
-
----
-
 # Description
 
 <!-- Please include a summary of the issue.-->
