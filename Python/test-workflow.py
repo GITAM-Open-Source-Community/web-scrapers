@@ -1,1 +1,0 @@
-prin("Hello world")
