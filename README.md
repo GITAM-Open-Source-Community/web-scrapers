@@ -25,7 +25,3 @@ Press the <kbd>.</kbd> key in the forked repository to open GitHub's web editor.
 - Please read and follow the [Contribution Guidelines](CONTRIBUTING.md) before you create a pull request.
 
 - If adding a project, please provide proper documentation and getting-started sections in the README.md file.
-
----
-
-## [![Join us on Discord!](https://i.ibb.co/YyRbY2Y/discord-label.png)](https://discord.gg/44g53ckhEh)
