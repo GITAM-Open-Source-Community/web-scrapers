@@ -26,7 +26,7 @@ assignees: ''
 - [ ] This issue will be meaningful for the project.
 
 
-<!-- Uncomment this in case you have a issue related to a bug in existing code.-->
+<!-- Uncomment this in case you have an issue related to a bug in existing code.-->
 
 <!--
 - [ ] I have added screenshots of the bug
