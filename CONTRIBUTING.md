@@ -1,9 +1,9 @@
 ## Contribution Guidelines
 
 - Select an issue and ask to be *assigned* to it.
-- Check existing scripts [project here.](https://github.com/Python-World/Python_and_the_Web)
+- Check existing scripts [project here.](https://github.com/GITAM-Open-Source-Community/web-scrappers)
 - **Star** the repository.
-- On the [GitHub page for this repository](https://github.com/Python-World/Python_and_the_Web), click on the Button "**Fork**".
+- On the [GitHub page for this repository](https://github.com/GITAM-Open-Source-Community/web-scrappers), click on the Button "**Fork**".
    ![fork image](https://help.github.com/assets/images/help/repository/fork_button.jpg)
 - Create clone ***your forked repository*** on your local machine.
    ![code ui](https://docs.github.com/assets/images/help/repository/code-button.png)
@@ -20,7 +20,7 @@
 - Before you make any changes, [keep your fork in sync](https://www.freecodecamp.org/news/how-to-sync-your-fork-with-the-original-git-repository/) to avoid merge conflicts:
 
     ```bash
-    git remote add upstream https://github.com/Python-World/Python_and_the_Web.git
+    git remote add upstream https://github.com/GITAM-Open-Source-Community/web-scrappers.git
     git fetch upstream
     git pull upstream master
     git push
@@ -34,7 +34,7 @@
     git checkout -b <branch-name>
     ```
 
-- Create a folder in one of the folders in the [Scripts' directory](https://github.com/Python-World/Python_and_the_Web/tree/master/Scripts) according to issue name.
+- Create a folder in one of the folders in the [Scripts' directory](https://github.com/GITAM-Open-Source-Community/web-scrappers/master/Scripts) according to issue name.
 - Write your code and add to the respective folder in the projects directory, locally.
 - Don't forget to add a `README.md` in your folder, according to the [README_TEMPLATE.](https://github.com/chavarera/python-mini-projects/blob/master/README_TEMPLATE.md)
 - Add the changes with `git add`, `git commit` ([write a good commit message](https://chris.beams.io/posts/git-commit/), if possible):
