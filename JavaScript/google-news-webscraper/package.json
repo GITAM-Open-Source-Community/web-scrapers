@@ -1,0 +1,15 @@
+{
+  "name": "google-news-webscraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "akkaraju-satvik <satvik.akkaraju@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "puppeteer": "^10.4.0"
+  }
+}
