@@ -12,6 +12,6 @@
 --- folder-name
     |--- index.js            ==> contains the core python script for the scraper
     |--- dependency-files    ==> if any
-    |--- screenshot(s).pn    ==> screenshot of the script having scraped some data
+    |--- screenshot(s).png    ==> screenshot of the script having scraped some data
     |--- README.md           ==> proper documentation on how to use the scraper.
 ```
