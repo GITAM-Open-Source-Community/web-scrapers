@@ -1,3 +1,5 @@
+![Contribute](https://open.edx.org/wp-content/uploads/2018/12/contribute@2x.png)
+---
 ## Contribution Guidelines
 
 - Select an issue and ask to be *assigned* to it.
