@@ -1,6 +1,5 @@
 import urllib.request
 import re
-import requests
 
 query = "moves like jaggers"
 
