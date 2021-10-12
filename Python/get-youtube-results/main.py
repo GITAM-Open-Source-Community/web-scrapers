@@ -5,7 +5,7 @@ query = "moves like jaggers"
 
 def search_yt(a):
     a = a.replace(' ','+')
-    html = urllib.request.urlopen("https://www.youtube.com/results?search_query="+a)
+    html = urllib.request.urlopen(f"https://www.youtube.com/results?search_query={a}")
     decoded = html.read().decode()
     video_ids = re.findall("watch\?v=(\S{11})", decoded)
     return video_ids
