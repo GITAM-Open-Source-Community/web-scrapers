@@ -2,7 +2,7 @@
 This Python script can scrape all semester results from GITAM Semester Results [website](https://doeresults.gitam.edu/onlineresults/pages/newgrdcrdinput1.aspx "website").<br>
 The script will generate a workbook with each section's data in a seperate worksheet with the section name. It will also feature student records which have high CGPA and GPA in 2 seperate sheets.<br>
 To run the script, run the following in the command line, after downloading the script.<br>
-`python gitam_results_scrape.py`
+`python gitam_results_scraper.py`
 
 ### Prerequisites
 The program works based on Selenium with ChromeDriver.<br>
