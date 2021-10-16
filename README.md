@@ -4,13 +4,13 @@
 
 # 🙌 Welcome to Hacktoberfest 2021! 🙌
 
-## Contribute to the Open-Source Source Community and get awesome 😎 prizes! 🎉🎉
+## Contribute to the Open-Source Source Community and get awesome 😎 prizes! it's free win prizes  🎉🎉
 
 Hacktoberfest is an yearly event, held in the month of October, celebrating the contribution of open source projects to the world, and encouraging developers all over the world to contribute to the projects.
 
 **Know more about Hacktoberfest 2021, [here](https://hacktoberfest.digitalocean.com/)!**
 
-## 👨‍💻 Get Started with your contributions now! 
+## 👨‍💻 Get Started with your contributions now!hurry up! 
 
 - Fork the repository by clicking the fork button at the top right of the repository.
 
