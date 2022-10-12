@@ -17,5 +17,12 @@ def getLyrics(title):
         lyrics += i.text+'\n'
     return lyrics
 
-lyrics = getLyrics("Treat you better")
-print(lyrics)
+
+song = input("Enter the name of song: ")
+
+try:
+    lyrics = getLyrics(song)
+    print(f"======== {song} ======== \n")
+    print(lyrics)
+except:
+    print("Something went wrong please check the name and try again.")
