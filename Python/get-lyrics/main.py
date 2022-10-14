@@ -17,5 +17,5 @@ def getLyrics(title):
         lyrics += i.text+'\n'
     return lyrics
 
-lyrics = getLyrics("Treat you better")
+lyrics = getLyrics("Treat you better \n Thank You")
 print(lyrics)
